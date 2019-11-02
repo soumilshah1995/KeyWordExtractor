@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+keywordextractor/keywordextractor.py
+keywordextractor.egg-info/PKG-INFO
+keywordextractor.egg-info/SOURCES.txt
+keywordextractor.egg-info/dependency_links.txt
+keywordextractor.egg-info/requires.txt
+keywordextractor.egg-info/top_level.txt
